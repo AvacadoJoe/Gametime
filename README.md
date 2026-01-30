@@ -1,4 +1,4 @@
-This is a very simple chess UI I created with Claude, in Jan 2026, the chess 
+This is a very simple chess UI I created with Claude in Jan 2026, the excellent chess 
 engine is what makes it work offline: http://jhlywa.github.io/chess.js/ 
 Copyright (c) 2025, Jeff Hlywa (jhlywa@gmail.com)
 All rights reserved.
